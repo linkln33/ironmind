@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/helmet": "^0.0.48"
+  }
+}
